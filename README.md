@@ -13,3 +13,6 @@ CIS 1531 - Introduction to Secure Scripting
 
 Courses to be taken in the future in college:
 CIS 2350 Cybersecurity Analyst
+
+Awards:
+Academic Excellence Award in 2025 for Network Defense & Countermeasures from Miami Dade College
