@@ -1,4 +1,4 @@
-I was a Launchcode tech student in Miami, FL in 2015 at Miami Dade College and got experience learning how to install a Linux system called Ubuntu inside of a VMware or Virtualbox. I also learned about the C language, HTML and CSS language, PHP, and MySQL language from an Online EdX CS50 course from Harvard University.
+I was a Launchcode tech student in Miami, FL in 2015 at Miami Dade College and got experience learning how to install a Linux system called Ubuntu inside of a VMware or Virtualbox. I also learned about the C language, HTML and CSS language, Python, Javascript, PHP, and MySQL language from an Online EdX CS50 course from Harvard University.
 
 I am a cybersecurity college student at Miami Dade College in Miami, FL on track to getting my Cybersecurity Analyst College Credit Certificate. I also got accepted into the bachelor's program for cybersecurity in college. 
 
