@@ -9,7 +9,7 @@ CTS 1111 - Linux +
 CTS 2314 - Network Defense and Countermeasures
 
 Courses currently taking in college:
-CIS 1531 - Introduction to Secure Scripting 
+CIS 1531 - Introduction to Secure Scripting (learning the Python, Powershell, and Bash computer programming languages)
 
 Courses to be taken in the future in college:
 CIS 2350 Cybersecurity Analyst
