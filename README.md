@@ -13,4 +13,4 @@ Courses to be taken in Fall 2025:
 CIS 2350 Cybersecurity Analysis
 
 Awards:
-Academic Excellence Award in 2025 for Network Defense & Countermeasures from Miami Dade College
+Academic Excellence Award in 2025 for Network Defense & Countermeasures from Miami Dade College, Homestead Campus
