@@ -4,7 +4,7 @@ I have been a cybersecurity/tech college student at Miami Dade College in Miami,
 
 Courses already taken in college:
 CTS 1120 - Cybersecurity Fundamentals,
-CTS 1134 - Network Defense and Countermeasures, 
+CTS 1134 - Networking Technologies, 
 CTS 1111 - Linux +,
 CTS 2314 - Network Defense and Countermeasures,
 CIS 1531 - Introduction to Secure Scripting (learning the Python, Powershell, and Bash computer programming languages)
