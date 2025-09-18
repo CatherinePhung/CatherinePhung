@@ -9,8 +9,8 @@ CTS 1111 - Linux +,
 CTS 2314 - Network Defense and Countermeasures,
 CIS 1531 - Introduction to Secure Scripting (learning the Python, Powershell, and Bash computer programming languages)
 
-Courses to be taken in Fall 2025:
-CIS 2350 Cybersecurity Analysis
+Fall 2025:
+CIS 2350 Cybersecurity Analysis class then going on to the bachelor's program for cybersecurity after getting my college credit certificate in Cybersecurity Analyst from Miami Dade College.
 
 Awards:
 Academic Excellence Award in 2025 for Network Defense & Countermeasures from Miami Dade College, Homestead Campus
