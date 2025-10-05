@@ -12,5 +12,6 @@ CIS 1531 - Introduction to Secure Scripting (learning the Python, Powershell, an
 Fall 2025:
 CIS 2350 Cybersecurity Analysis class then going on to the bachelor's program for cybersecurity after getting my college credit certificate in Cybersecurity Analyst from Miami Dade College.
 
-Awards:
+Awards/accomplishments
 Academic Excellence Award in 2025 for Network Defense & Countermeasures from Miami Dade College, Homestead Campus
+Participated in the NASA Space Apps challenge hackathon from Miami Dade College in 2025
