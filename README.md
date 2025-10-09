@@ -8,7 +8,7 @@ CTS 1134 - Networking Technologies,
 CTS 1111 - Linux +,
 CTS 2314 - Network Defense and Countermeasures,
 CIS 1531 - Introduction to Secure Scripting (learning the Python, Powershell, and Bash computer programming languages)
-CIS 2350 - Cybersecurity Analysis (finishing soon in Fall 2025)
+CIS 2350 - Cybersecurity Analysis 
 
 Awards/accomplishments
 Academic Excellence Award in 2025 for Network Defense & Countermeasures from Miami Dade College, Homestead Campus,
